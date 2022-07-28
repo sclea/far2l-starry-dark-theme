@@ -34,10 +34,10 @@ Set **```./starry-dark/app-icon/far2l.svg```** icon file manually depending of y
 
 ## Links
 
-* [Far Manager](http://farmanager.com/)<br />
-* [Linux fork of FAR Manager v2](https://github.com/elfmz/far2l)<br />
+* [Far Manager](http://farmanager.com/)
+* [Linux fork of FAR Manager v2](https://github.com/elfmz/far2l)
 * [Far2l telegram group](https://t.me/far2l_ru)
-* [Far2l .deb package for Ubuntu / Mint](https://github.com/unxed/far2l-deb/)<br />
+* [Far2l .deb package for Ubuntu / Mint](https://github.com/unxed/far2l-deb/)
 * [Some Far2l resources](https://github.com/elfmz/far2l/issues/647)
 
 #### Articles
