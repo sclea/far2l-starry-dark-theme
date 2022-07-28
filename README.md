@@ -4,7 +4,7 @@ Based on unxed's [dark smarty theme](https://github.com/unxed/far2l-deb/tree/mas
 
 ## Supported versions
 
-Suitable for far2l v2.4+ since config turned into flat *.ini files
+Suitable for Far2l v2.4+ since config turned into flat *.ini files
 
 ## Install
 
