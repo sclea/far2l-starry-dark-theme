@@ -41,8 +41,8 @@ Set **```./starry-dark/app-icon/far2l.svg```** icon file manually depending of y
 * [Some Far2l resources](https://github.com/elfmz/far2l/issues/647)
 
 #### Articles
-https://habr.com/ru/news/t/645475/<br />
-https://habr.com/ru/post/593451/
+* https://habr.com/ru/news/t/645475/
+* https://habr.com/ru/post/593451/
 
 
 ## Credits
