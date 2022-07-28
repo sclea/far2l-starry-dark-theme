@@ -24,6 +24,8 @@ Set **```./starry-dark/app-icon/far2l.svg```** icon file manually depending of y
 
 ## Screenshots
 
+(https://github.com/sclea/far2l-starry-dark-theme/screens/1.png)
+
 ## Links
 
 [Far Manager](http://farmanager.com/)<br />
