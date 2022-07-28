@@ -6,6 +6,8 @@ Based on unxed's [dark smarty theme](https://github.com/unxed/far2l-deb/tree/mas
 
 Suitable for Far2l v2.4+ since config turned into flat *.ini files
 
+The theme looks fine in only GUI mode; in TTY it's pretty unreadable due of palette changed.
+
 ## Install
 
 1. download, unpack to some temp place
@@ -32,10 +34,11 @@ Set **```./starry-dark/app-icon/far2l.svg```** icon file manually depending of y
 
 ## Links
 
-[Far Manager](http://farmanager.com/)<br />
-[Linux fork of FAR Manager v2](https://github.com/elfmz/far2l)<br />
-[Far2l .deb package for Ubuntu / Mint](https://github.com/unxed/far2l-deb/)<br />
-[Some Far2l resources](https://github.com/elfmz/far2l/issues/647)
+* [Far Manager](http://farmanager.com/)<br />
+* [Linux fork of FAR Manager v2](https://github.com/elfmz/far2l)<br />
+* [Far2l telegram group](https://t.me/far2l_ru)
+* [Far2l .deb package for Ubuntu / Mint](https://github.com/unxed/far2l-deb/)<br />
+* [Some Far2l resources](https://github.com/elfmz/far2l/issues/647)
 
 #### Articles
 https://habr.com/ru/news/t/645475/<br />
@@ -44,8 +47,8 @@ https://habr.com/ru/post/593451/
 
 ## Credits
 
-Great thanks to fabulous [elfmz](https://github.com/elfmz/far2l) for has been bringing Old Good Far Manager to linux world.<br />
+Great thanks to fabulous [elfmz](https://github.com/elfmz/far2l) for has been bringing Old Good Far Manager to linux world.<br /><br />
 Thanks to [unxed](https://github.com/unxed/far2l-deb) for inspiration with theme
-<br />
+<br /><br />
 Many thanks to all contributors who keeps this project under fingers.
 
