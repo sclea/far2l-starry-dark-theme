@@ -24,7 +24,11 @@ Set **```./starry-dark/app-icon/far2l.svg```** icon file manually depending of y
 
 ## Screenshots
 
-[1](https://github.com/sclea/far2l-starry-dark-theme/screens/1.png)
+<img src="https://github.com/sclea/far2l-starry-dark-theme/screens/1.png" /><br />
+<img src="https://github.com/sclea/far2l-starry-dark-theme/screens/2.png" /><br />
+<img src="https://github.com/sclea/far2l-starry-dark-theme/screens/3.png" /><br />
+<img src="https://github.com/sclea/far2l-starry-dark-theme/screens/4.png" /><br />
+<img src="https://github.com/sclea/far2l-starry-dark-theme/screens/5.png" />
 
 ## Links
 
